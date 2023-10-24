@@ -1,19 +1,10 @@
 <link href="style.css" rel="stylesheet"></link>
 <img src="https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&center=true&vCenter=true&lines=%3CHello+World%2C+Abhay+here!%2F%3E" height="500" width="1000">
-
-
-
-
-<!-- Followers -->
-![GitHub followers](https://img.shields.io/github/followers/AbhayPawarRepo?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=jiganesh&label=PROFILE VIEWS  &color=red&style=flat" alt="Abhay"/>
-
 <!--
 **Abhay/abhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
 Here are some ideas to get you started:
 -->
-
 - 👨‍💻 I’m currently working on my **System Design** and **Development Skills**.
 - 🤯 I’m currently learning advanced **Architectures**
 - 🤩 I’m looking to collaborate on **Web Development** Projects
@@ -28,10 +19,6 @@ Here are some ideas to get you started:
 
 
 </a>
-
-
-
-
 # **About me** :
 
 - I dig up 🕵️‍♀️real-world problems🌍and **find solutions** for them.
