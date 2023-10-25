@@ -1,5 +1,5 @@
 <link href="style.css" rel="stylesheet"></link>
-<img src="https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&center=true&vCenter=true&lines=%3CHello+World%2C+Abhay+here!%2F%3E" height="200" width="400">
+<img src="https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&center=true&vCenter=true&lines=%3CHello+World%2C+Abhay+here!%2F%3E" height="50" width="400">
 <!--
 **Abhay/abhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
